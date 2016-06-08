@@ -1,7 +1,7 @@
 package com.gp1.myapp;
 
 public class hello {
-	//comment 2
+	//comment 3
 	public static void main(String[] args){
 	System.out.println("Hello myApp");
 	//comment 2
